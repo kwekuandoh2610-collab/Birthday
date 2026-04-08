@@ -2,7 +2,7 @@ const CONFIG = {
   titleName: "My Love",
   from: "— From Me 😂",
   slideMs: 3500,
-  imagesDir: "./images/",
+  imagesDir: "images/",
 };
 
 const WISH = [
